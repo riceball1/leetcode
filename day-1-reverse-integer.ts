@@ -15,15 +15,13 @@
         
         const stringNumberArray = x.toString().split('').reverse();
         const reversedNumberArray = [];
-        let isNegative = false;
+        let isNegative = x < 0;
         
         stringNumberArray.map(stringNum => {
             // this should be always in index 0 because when reverse
     
             if(stringNum !== '-') {
                 reversedNumberArray.push(stringNum);
-            } else {
-                isNegative = true;
             }
         })
         
