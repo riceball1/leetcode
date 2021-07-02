@@ -27,15 +27,11 @@
             }
         })
         
-        let reversedNumber = parseInt(stringNumberArray.join(''));
-    
+        const stringToNumber = parseInt(stringNumberArray.join(''));
         
-        if (isNegative) {
-            // how to change to negative?
-            return -reversedNumber;
-        } else {
-            return reversedNumber;
-        }
+        const reversedNumber = isNegative ? -stringToNumber : stringToNumber;
+        if (reversedNumber > 2**31) return 0;
+        return reversedNumber;
         
     };
     
@@ -43,3 +39,9 @@
 // input: 1534236469
 // output: 9646324351
 // expected
+
+// not passing:
+// input: -2147483648
+// output: -8463847412
+// expected: 0
+
