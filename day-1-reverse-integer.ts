@@ -10,6 +10,36 @@
  */
 
  function reverse(x: number): number {
-    let reversedNumber = x;
-    return reversedNumber;
-};
+    // convert into a string
+    // must keep sign at the start and only reverse the numbers
+        
+        const stringNumberArray = x.toString().split('').reverse();
+        const reversedNumberArray = [];
+        let isNegative = false;
+        
+        stringNumberArray.map(stringNum => {
+            // this should be always in index 0 because when reverse
+    
+            if(stringNum !== '-') {
+                reversedNumberArray.push(stringNum);
+            } else {
+                isNegative = true;
+            }
+        })
+        
+        let reversedNumber = parseInt(stringNumberArray.join(''));
+    
+        
+        if (isNegative) {
+            // how to change to negative?
+            return -reversedNumber;
+        } else {
+            return reversedNumber;
+        }
+        
+    };
+    
+// not passing the following testcase:
+// input: 1534236469
+// output: 9646324351
+// expected
