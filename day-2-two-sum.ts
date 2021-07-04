@@ -12,6 +12,7 @@
  */
 
 
+// attempt one - doesn't pass all tests
 function twoSum(nums: number[], target: number): number[] {
     let indices = [];
     if (nums.length === 2) {
@@ -32,5 +33,16 @@ function twoSum(nums: number[], target: number): number[] {
     }
     
     return indices;
-
 };
+
+
+// attempt two
+
+function twoSumAttemptTwo(nums: number[], target: number): number[] {
+    // use a hash map
+    let numsIndicies = {}
+
+    
+    
+    return [];
+}
