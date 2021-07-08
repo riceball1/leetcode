@@ -10,8 +10,8 @@
 | Day 1 - 7/1/2021|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ❌ |
 | Day 2 - 7/3/2021| [Two Sum](https://leetcode.com/problems/two-sum/)|❌ |
 | Day 3 - 7/4/2021| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| ✅  |
-| Day 4 - 7/6/2021 | [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)| |
-| Day 5 | TBD| |
+| Day 4 - 7/6/2021 | [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)| ❌|
+| Day 5 - 7/7/2021| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| |
 | Day 6 | TBD| |
 | Day 7 | TBD| |
 | Day 8 | TBD| |
