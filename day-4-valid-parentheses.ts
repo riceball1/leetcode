@@ -9,12 +9,40 @@
  */
 
  function isValid(s: string): boolean {
+
+    const stack = [];
     // create a list of already valid parens
-    const validParens = ['()', '[]', '{}'];
-    let isValidParen = false;
+    const validParens = {
+        '{': '}',
+        '(' : ')',
+        '[': ']'
+    };
+
+    const splitString = s.split('');
+    // if the string is odd length it is invalid;
+    if (splitString.length % 2 !== 0) return false;
+
+    splitString.map(paren => {
+        // checks if the paren exists in the hash map
+        // if so then push to the stack
+        if (validParens[paren]) {
+            stack.push(paren)
+            return;
+        } else {
+            // the paren doesn't exist, so it must be the closing paren
+            // check if the top of the stack is the match to the current paren
+            // I also want to end early if the 
+            const currentStack = splitString.pop();
+            if (validParens[currentStack] === paren) {
+                // pop the first item off the stack
+                splitString.pop();
+                return;
+            }
+        }
+    })
      
 
-    return isValidParen;
+    return stack.length === 0;
 };
 
 /*
