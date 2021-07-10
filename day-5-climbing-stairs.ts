@@ -8,8 +8,19 @@
  */
 
 
+// I did not understand this approach, but learning through other examples
+// apparently fibonnaci method, and recursive are some important factors to understanding this
+// Checkout a coding example: https://www.youtube.com/watch?v=PiCJf_qCxwI
  function climbStairs(n: number): number {
-    // constraint 1 <= n <= 45
-    // if 1 there can only be 1 steps;
-    if (n === 1) return 1;
+    // dp method
+    const dp = Array(n).fill(0);
+    dp[0] = 1;
+    dp[1] = 1;
+    dp[2] = 2;
+    
+    for (let i = 3; i <= n; i++) {
+        dp[i] = dp[i - 1] + dp[i -2];
+    }
+    
+    return dp[n];   
 };
