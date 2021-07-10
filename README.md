@@ -12,7 +12,7 @@
 | Day 3 - 7/4/2021| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| ✅  |
 | Day 4 - 7/6/2021 | [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)| ❌|
 | Day 5 - 7/7/2021| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| ❌|
-| Day 6 | TBD| |
+| Day 6 - 7/9/2021 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|❌|
 | Day 7 | TBD| |
 | Day 8 | TBD| |
 | Day 9 | TBD| |
