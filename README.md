@@ -13,7 +13,7 @@
 | Day 4 - 7/6/2021 | [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)| ❌|
 | Day 5 - 7/7/2021| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| ❌|
 | Day 6 - 7/9/2021 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|❌|
-| Day 7 | TBD| |
+| Day 7 - 7/9/2021 | [Missing Number](https://leetcode.com/problems/missing-number/)| |
 | Day 8 | TBD| |
 | Day 9 | TBD| |
 | Day 10 | TBD| |
