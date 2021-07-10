@@ -9,7 +9,7 @@
 
 
  function climbStairs(n: number): number {
-
-
-    return n;
+    // constraint 1 <= n <= 45
+    // if 1 there can only be 1 steps;
+    if (n === 1) return 1;
 };
