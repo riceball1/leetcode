@@ -17,7 +17,7 @@ H = Hard
 | Day 5 - 7/7/2021| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| ❌| E|
 | Day 6 - 7/9/2021 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|❌| M|
 | Day 7 - 7/9/2021 | [Missing Number](https://leetcode.com/problems/missing-number/)| ❌| E|
-| Day 8 | TBD| | |
+| Day 8 - 7/11/2021 | [Same Tree](https://leetcode.com/problems/same-tree/)| | E |
 | Day 9 | TBD| | |
 | Day 10 | TBD| | |
 | Day 11 | TBD| | |
