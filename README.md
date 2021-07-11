@@ -16,7 +16,7 @@ H = Hard
 | Day 4 - 7/6/2021 | [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)| ❌| E|
 | Day 5 - 7/7/2021| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| ❌| E|
 | Day 6 - 7/9/2021 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|❌| M|
-| Day 7 - 7/9/2021 | [Missing Number](https://leetcode.com/problems/missing-number/)| | E|
+| Day 7 - 7/9/2021 | [Missing Number](https://leetcode.com/problems/missing-number/)| ❌| E|
 | Day 8 | TBD| | |
 | Day 9 | TBD| | |
 | Day 10 | TBD| | |
