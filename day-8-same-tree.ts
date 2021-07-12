@@ -23,5 +23,5 @@
  */
 
  function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
-
+// traverse through binary trees
 };
