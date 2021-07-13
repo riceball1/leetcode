@@ -1,12 +1,14 @@
 # leetcode
 
-## 30-days of Leetcoding
+## Leetcoding 30 Day Chunks
 
 ✅ = Passed all Tests
 ❌ = Incomplete/Failing Tests
 E = easy
 M = Medium
 H = Hard
+
+### First 30-Days Leetcode
 
 | Date Attempted    | Link to Leetcode Problem | Status | Difficulty |
 | :----------: | :----------: | :-----:|  :-----:|
