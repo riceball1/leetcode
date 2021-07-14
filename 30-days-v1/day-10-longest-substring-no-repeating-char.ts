@@ -7,8 +7,8 @@
 
  function lengthOfLongestSubstring(s: string): number {
     const seen = {};
-    let longest = 0; // 0
-    let currentLongest = 0;  // 3
+    let longest = 0; 
+    let currentLongest = 0;  
     let stringLength = s.length;
     let index = 0;
     let startIndex = 0;
@@ -16,23 +16,18 @@
     
     while(index < stringLength) {
         if(s[index] in seen) {
-        if (currentLongest > longest) {
-            longest = currentLongest;
-        }
-        repeatIndex = seen[s[index]];
-        currentLongest = currentLongest - seen[s[index]]  + startIndex;                 
+        longest = currentLongest > longest ? currentLongest : longest;
+        repeatIndex = repeatIndex > seen[s[index]] ? repeatIndex : seen[s[index]];
+        currentLongest = currentLongest - repeatIndex  + startIndex;                 
         startIndex = repeatIndex + 1;
         seen[s[index]] = index;
-        index += 1;
       } else {
         currentLongest += 1;
         seen[s[index]] = index;
-        index += 1;
       }
+      index += 1;
     }
-    if (currentLongest > longest) {
-        longest = currentLongest;
-    }
+    longest = currentLongest > longest ? currentLongest : longest;
     return longest;
   
   };

@@ -21,7 +21,7 @@ H = Hard
 | Day 7 - 7/9/2021 | [Missing Number](https://leetcode.com/problems/missing-number/)| ❌| E|
 | Day 8 - 7/11/2021 | [Same Tree](https://leetcode.com/problems/same-tree/)|✅  | E |
 | Day 9 - 7/11/2021 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| ✅ | E|
-| Day 10 - 7/12/2021 | [Longest Substring without Repeating Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | |M |
+| Day 10 - 7/12/2021 | [Longest Substring without Repeating Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ❌ |M |
 | Day 11 - 7/12/2021 | [Build array from permutations](https://leetcode.com/problems/build-array-from-permutation/)| | E |
 | Day 12 - 7/12/2021 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| | E |
 | Day 13 | TBD| | |
