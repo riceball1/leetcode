@@ -12,30 +12,31 @@
     let stringLength = s.length;
     let index = 0;
     let startIndex = 0;
+    let repeatIndex = 0;
     
-  if (s.length == 0 || s.length == 1) {
-      return currentLongest >= longest ? currentLongest : longest; 
-  }
-      
     while(index < stringLength) {
         if(s[index] in seen) {
-      let repeatIndex = seen[s[index]];
-        longest = currentLongest >= longest ? currentLongest : longest;
-        currentLongest = currentLongest - repeatIndex  + startIndex;                 
+        if (currentLongest > longest) {
+            longest = currentLongest;
+        }
+        repeatIndex = seen[s[index]];
+        currentLongest = currentLongest - seen[s[index]]  + startIndex;                 
         startIndex = repeatIndex + 1;
-  
-          index += 1;
+        seen[s[index]] = index;
+        index += 1;
       } else {
         currentLongest += 1;
         seen[s[index]] = index;
         index += 1;
       }
     }
-      
-      return longest;
+    if (currentLongest > longest) {
+        longest = currentLongest;
+    }
+    return longest;
   
   };
-
+  
 
 /**
  * Initial thoughts to approaching this problem:
