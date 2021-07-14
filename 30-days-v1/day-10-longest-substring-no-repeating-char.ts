@@ -13,12 +13,17 @@
     let index = 0;
     let startIndex = 0;
     
+  if (s.length == 0 || s.length == 1) {
+      return currentLongest >= longest ? currentLongest : longest; 
+  }
+      
     while(index < stringLength) {
-        if(seen[s[index]]) {
+        if(s[index] in seen) {
+      let repeatIndex = seen[s[index]];
         longest = currentLongest >= longest ? currentLongest : longest;
-        currentLongest = currentLongest - seen[s[index]]  + startIndex;                 
-        startIndex = seen[s[index]] + 1;
-        seen[s[index]] = index;
+        currentLongest = currentLongest - repeatIndex  + startIndex;                 
+        startIndex = repeatIndex + 1;
+  
           index += 1;
       } else {
         currentLongest += 1;
@@ -30,7 +35,6 @@
       return longest;
   
   };
-
 
 
 /**
