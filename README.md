@@ -12,7 +12,7 @@ H = Hard
 
 | Date Attempted    | Link to Leetcode Problem | Status | Difficulty |
 | :----------: | :----------: | :-----:|  :-----:|
-| Day 1 - 7/1/2021|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ❌ | E|
+| Day 1 - 7/1/2021|[🙅 Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ❌ | E|
 | Day 2 - 7/3/2021| [Two Sum](https://leetcode.com/problems/two-sum/)|❌ |E |
 | Day 3 - 7/4/2021| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| ✅  | E|
 | Day 4 - 7/6/2021 | [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)| ❌| E|
