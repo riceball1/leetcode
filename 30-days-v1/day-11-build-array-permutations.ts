@@ -19,7 +19,14 @@
  */
 
  function buildArray(nums: number[]): number[] {
-
+    const ans = [];
+    // loops through once O(n) for time
+    // also O(n) for space for the ans array
+    for (let i = 0; i < nums.length; i++) {
+        ans[i] = nums[nums[i]];
+    }
+    // returns back ans arrray
+    return ans;
 };
 
 
@@ -44,5 +51,15 @@
  * Input: nums = [5,0,1,2,3,4]
  * Output: [4,5,0,1,2,3]
  * 
+ * 
+ * Update 7/17/21
+ * 
+ * After watching a video I realized that it literally was 
+ * just taking the value within the array while looping through it and using that
+ * as the index and it returns a new array
+ * 
+ * Is there any better way to make it more efficient than the for loop approach?
+ * 
+ * Not sure if there be any comparable difference with a map or even foreach
  * 
  */
