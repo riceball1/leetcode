@@ -25,7 +25,7 @@ H = Hard
 | Day 11 - 7/12/2021 | [Build array from permutations](https://leetcode.com/problems/build-array-from-permutation/)|✅  | E |
 | Day 12 - 7/12/2021 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| ❌| E |
 | Day 13 - 7/16/21 | [Roman to Integers](https://leetcode.com/problems/roman-to-integer/)|  ❌| E|
-| Day 14 | TBD| | |
+| Day 14 - 7/19/21 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| |M |
 | Day 15 | TBD| | |
 | Day 16 | TBD| | |
 | Day 17 | TBD| | |
