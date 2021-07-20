@@ -5,7 +5,7 @@
  */
 
 
-function romanToInt(s: string): number {
+ function romanToInt(s: string): number {
     // roman values
     const romanValues = {
         'I' : 1,
@@ -28,8 +28,8 @@ function romanToInt(s: string): number {
         XL XC = 40 and 90
         CD CM = 400 and 900
         */
-        
-        total += romanValues[s[i]];
+        // compares the current value with the next value
+        romanValues[s[i]] < romanValues[s[i+1]] ? total -= romanValues[s[i]]: total += romanValues[s[i]]
     }
     
     return total;
