@@ -34,5 +34,27 @@ function mergeTwoLists(
     // Base case when it reaches only one item in the lists
     
 
+    // 
+
   return new ListNode();
 }
+
+
+/**
+ * Thought Process:
+ * 
+ * - So since the inputs have already been sorted, I was
+ * thinking that I should do something where I unshift the first element
+ * in each array and compare them
+ * 
+ * - And use an extra space complexity by creating a new array to store
+ * the new sorted array
+ * 
+ * - But then I thought about edge case of what if 
+ * there were two same elements in one of the arrays?
+ * - So will need to continuously sort them, so maybe start off with first 
+ * recursively breaking the problem down to only 1 element in each array
+ * - so a divde and conquer approach
+ * 
+ * 
+ */
