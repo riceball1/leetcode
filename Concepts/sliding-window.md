@@ -77,4 +77,6 @@ Given an array and a positive number k, check whether the array contains any dup
 
 
 ## Resources:
- - window sliding technique - https://www.geeksforgeeks.org/window-sliding-technique/
+ 1. https://www.geeksforgeeks.org/window-sliding-technique/
+ 2. https://www.baeldung.com/cs/sliding-window-algorithm
+ 3. https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples
