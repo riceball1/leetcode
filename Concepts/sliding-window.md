@@ -1,6 +1,41 @@
-# Sliding Window Concept
+# Sliding Window Technique
+
+## What is the Sliding Window Technique?
 
 This technique shows how a nested for loop in some problems can be converted to a single for loop to reduce the time complexity.
+
+## Example Sliding Window Code
+
+```javascript
+// Javascript code for
+// O(n) solution for finding
+// maximum sum of a subarray
+// of size k
+function maxSumofK(arr, k) {
+let max = 0;
+let sum = 0;
+//find initial sum of first k elements
+for(let n = 0; n < k ; n++) {
+	sum += arr[n];	
+}
+//iterate the array once and increment the right edge
+for(let i = k; i < arr.length; i++) {	
+		sum += arr[i] - arr[i-k];
+		//compare if sum is more than max, if yes then replace max with new sum value
+		if(sum > max) {
+			max = sum;
+		}
+		}
+	return max;
+}
+
+let arr = [1, 4, 2, 10, 2, 3, 1, 0, 20 ];
+console.log(maxSumofK(arr, 4))
+//output 28
+
+
+
+```
 
 ## Example Window Sliding Problems
 
