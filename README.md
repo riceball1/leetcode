@@ -3,7 +3,9 @@
 ## Leetcoding 30 Day Chunks
 
 ✅ = Passed all Tests
-❌ = Incomplete/Failing Tests
+❌ = Incomplete/Failing 
+Tests
+
 E = easy
 M = Medium
 H = Hard
@@ -25,7 +27,7 @@ H = Hard
 | Day 11 - 7/12/2021 | [Build array from permutations](https://leetcode.com/problems/build-array-from-permutation/)|✅  | E |
 | Day 12 - 7/12/2021 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| ❌| E |
 | Day 13 - 7/16/21 | [Roman to Integers](https://leetcode.com/problems/roman-to-integer/)|  ❌| E|
-| Day 14 - 7/19/21 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| |M |
+| Day 14 - 7/19/21 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| ❌ |M |
 | Day 15 - 7/22/21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| | E|
 | Day 16 | TBD| | |
 | Day 17 | TBD| | |
