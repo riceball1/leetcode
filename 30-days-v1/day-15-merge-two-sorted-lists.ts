@@ -31,12 +31,12 @@ function mergeTwoLists(
   l2: ListNode | null
 ): ListNode | null {
 
-    // Base case when it reaches only one item in the lists
-    
+  // know how to insert in a linked list
+  // should be able to compare the last of the element 
+  // in one linked list with another
 
-    // 
+  
 
-  return new ListNode();
 }
 
 
