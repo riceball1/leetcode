@@ -26,18 +26,37 @@ class ListNode {
   }
 }
 
-function mergeTwoLists(
-  l1: ListNode | null,
-  l2: ListNode | null
-): ListNode | null {
-
-  // know how to insert in a linked list
-  // should be able to compare the last of the element 
-  // in one linked list with another
-
+function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+    
+  // temp_node to hold list
+  let tempNode : ListNode = new ListNode();
+  let currentNode : ListNode = tempNode;
   
+  while(l1 !== null && l2 !== null) {
+      if (l1.val <= l2.val) {
+          currentNode.next = l1;
+          l1 = l1.next;
+      } else {
+          currentNode.next = l2;
+          l2 = l2.next;
+      }
+      
+      currentNode = currentNode.next;
+  }
+  
+  // edge cases if l1 or l2 ends before the other
+  if (l1 !== null) {
+      currentNode.next = l1;
+      
+  }
+  
+  if (l2 !== null) {
+      currentNode.next = l2;
+  }
+  
+  return tempNode.next;
 
-}
+};
 
 
 /**
