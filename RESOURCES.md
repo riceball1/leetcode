@@ -9,3 +9,4 @@
 |[validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)|[video](https://www.youtube.com/watch?v=s6ATEkipzow)|
 |[merge two sorted link lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[video](https://www.youtube.com/watch?v=XIdigk956u0&t=275s)|
 [linked list cycle](https://leetcode.com/problems/linked-list-cycle/)][video](https://www.youtube.com/watch?v=gBTe7lFR3vc)|
+|[268 Missing Number](https://leetcode.com/problems/missing-number/)|[video](https://www.youtube.com/watch?v=4LrVhAxJUsA)|
