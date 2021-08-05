@@ -12,7 +12,7 @@
  * }
  */
 
- function hasCycle(head: ListNode | null): boolean {
+ function hasCycleFirstAttempt(head: ListNode | null): boolean {
     // handle linkedList without next val
     if (head === null) return false;
     let count = 0;
@@ -25,4 +25,26 @@
        
     }
     return checkHasCycle(head);
+};
+
+
+// After watching a video to understand
+// This was a basic approach for the algo
+// using comparision of two pointer values
+
+function hasCycle(head: ListNode | null): boolean {
+    // use an O(n) time complexity approach
+    // use the method tortoise and hare - one fast and one slow pointer
+    
+    let slow = head;
+    let fast = head;
+    
+    while(fast && fast.next) {
+        slow = slow.next;
+        fast = fast.next.next;
+        if (slow == fast) {
+            return true;
+        }
+    }
+    return false
 };
