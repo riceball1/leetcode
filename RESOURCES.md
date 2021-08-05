@@ -1,10 +1,11 @@
 # Resources for Learning Leetcode Problems
 
 
-| Algo Problem | Video Link|
+| Algo Problem | Video Solutions|
 |---| ----|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Video](https://www.youtube.com/watch?v=Y0lT9Fck7qI)|
 |[Longest Substring without Repeating Char](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Video](https://www.youtube.com/watch?v=BQcnJQzE8f4)|
 |[build array from permutations](https://leetcode.com/problems/build-array-from-permutation/)|[video](https://www.youtube.com/watch?v=UnVTsLaIvB4)|
 |[validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)|[video](https://www.youtube.com/watch?v=s6ATEkipzow)|
 |[merge two sorted link lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[video](https://www.youtube.com/watch?v=XIdigk956u0&t=275s)|
+[linked list cycle](https://leetcode.com/problems/linked-list-cycle/)][video](https://www.youtube.com/watch?v=gBTe7lFR3vc)|
