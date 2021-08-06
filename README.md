@@ -32,7 +32,7 @@ H = Hard
 | Day 16 - 7/25/21 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)|✅|E |
 | Day 17 - 7/29/21 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|❌ |E |
 | Day 18 - 8/5/21 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| |M |
-| Day 19 | TBD| | |
+| Day 19 - 8/6/21 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|❌  | E|
 | Day 20 | TBD| | |
 | Day 21 | TBD| | |
 | Day 22 | TBD| | |
