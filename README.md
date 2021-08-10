@@ -31,7 +31,7 @@ H = Hard
 | Day 15 - 7/22/21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|❌  | E|
 | Day 16 - 7/25/21 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)|✅|E |
 | Day 17 - 7/29/21 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|❌ |E |
-| Day 18 - 8/5/21 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| |M |
+| Day 18 - 8/5/21 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|✅ |M |
 | Day 19 - 8/6/21 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|❌  | E|
 | Day 20 - 8/6/21 | [Sort Linked List](https://leetcode.com/problems/sort-list/)| |M |
 | Day 21 | TBD| | |

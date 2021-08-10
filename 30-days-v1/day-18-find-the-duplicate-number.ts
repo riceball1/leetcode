@@ -16,6 +16,43 @@
  */
 
 
+// Time = 128ms Memory = 59.1 MB
+// O(n)
  function findDuplicate(nums: number[]): number {
+    const hashMap = {};
+    let repeatedNum = 0;
+    
+    nums.map(num => {
+        if(hashMap[num]) {
+            repeatedNum = num;
+        } else {
+            hashMap[num] = num;
+        }
+    });
+    
+    return repeatedNum;
+
+};
+
+
+// attempt 2 using while loop
+// 116ms runtime and 56.2 MB memory
+
+function findDuplicateTwo(nums: number[]): number {
+    const hashMap = {};
+    let repeatedNum = 0;
+    let index = 0;
+    
+    
+    while(repeatedNum < 1) {
+        if(hashMap[nums[index]]) {
+            repeatedNum = nums[index];
+        } else {
+            hashMap[nums[index]] = nums[index];
+        }
+        index++;
+    }
+    
+    return repeatedNum;
 
 };
