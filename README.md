@@ -33,9 +33,9 @@ H = Hard
 | Day 17 - 7/29/21 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|❌ |E |
 | Day 18 - 8/5/21 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|✅ |M |
 | Day 19 - 8/6/21 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|❌  | E|
-| Day 20 - 8/6/21 | [Sort Linked List](https://leetcode.com/problems/sort-list/)| |M |
-| Day 21 - 8/9/21 | [706 Design HashMap](https://leetcode.com/problems/design-hashmap/)| | E|
-| Day 22 | TBD| | |
+| Day 20 | [Sort Linked List](https://leetcode.com/problems/sort-list/)| |M |
+| Day 21 | [706 Design HashMap](https://leetcode.com/problems/design-hashmap/)| | E|
+| Day 22 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| |E|
 | Day 23 | TBD| | |
 | Day 24 | TBD| | |
 | Day 25 | TBD| | |
