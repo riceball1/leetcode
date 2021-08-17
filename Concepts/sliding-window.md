@@ -80,3 +80,4 @@ Given an array and a positive number k, check whether the array contains any dup
  1. https://www.geeksforgeeks.org/window-sliding-technique/
  2. https://www.baeldung.com/cs/sliding-window-algorithm
  3. https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples
+ 4. [Window Sliding Technique | Why? What? When? How? | Comparison, Code Identification of Questions - Keerti Purswani](https://www.youtube.com/watch?v=SaI2PHJNNVU) 
