@@ -37,7 +37,7 @@ H = Hard
 | Day 21 | [706 Design HashMap](https://leetcode.com/problems/design-hashmap/)| | E|
 | Day 22 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| |E|
 | Day 23 | [1446 Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)| |E |
-| Day 24 | TBD| | |
+| Day 24 | [593 Valid Square](https://leetcode.com/problems/valid-square/)| |M |
 | Day 25 | TBD| | |
 | Day 26 | TBD| | |
 | Day 27 | TBD| | |
