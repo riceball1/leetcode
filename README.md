@@ -39,7 +39,7 @@ H = Hard
 | Day 23 | [1446 Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)| ✅ |E |
 | Day 24 | [593 Valid Square](https://leetcode.com/problems/valid-square/)| |M |
 | Day 25 | [704 Binary Serach](https://leetcode.com/problems/binary-search/)| ✅ |E |
-| Day 26 | TBD| | |
+| Day 26 | [278 First Bad Version](https://leetcode.com/problems/first-bad-version/)| |E |
 | Day 27 | TBD| | |
 | Day 28 | TBD| | |
 | Day 29 | TBD| | |
