@@ -40,7 +40,7 @@ H = Hard
 | Day 24 | [593 Valid Square](https://leetcode.com/problems/valid-square/)| |M |
 | Day 25 | [704 Binary Search](https://leetcode.com/problems/binary-search/)| ✅ |E |
 | Day 26 | [278 First Bad Version](https://leetcode.com/problems/first-bad-version/)|X |E |
-| Day 27 | | |E |
+| Day 27 | [977 Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  ✅|E |
 | Day 28 | TBD| | |
 | Day 29 | TBD| | |
 | Day 30 | TBD| | |
