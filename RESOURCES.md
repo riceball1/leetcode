@@ -11,3 +11,4 @@
 [linked list cycle](https://leetcode.com/problems/linked-list-cycle/)][video](https://www.youtube.com/watch?v=gBTe7lFR3vc)|
 |[268 Missing Number](https://leetcode.com/problems/missing-number/)|[video](https://www.youtube.com/watch?v=4LrVhAxJUsA)|
 |[53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[video](https://www.youtube.com/watch?v=5WZl3MMT0Eg) |
+|[189 Rotate Array](https://leetcode.com/problems/rotate-array/) | [video](https://www.youtube.com/watch?v=BHr381Guz3Y) |
