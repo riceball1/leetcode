@@ -42,6 +42,6 @@ H = Hard
 | Day 26 | [278 First Bad Version](https://leetcode.com/problems/first-bad-version/)|X |E |
 | Day 27 | [977 Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  ✅|E |
 | Day 28 | [189 Rotate Array](https://leetcode.com/problems/rotate-array/)| |M |
-| Day 29 | TBD| | |
+| Day 29 | [509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| ✅| E|
 | Day 30 | TBD| | |
 
