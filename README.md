@@ -10,7 +10,7 @@ E = easy
 M = Medium
 H = Hard
 
-### First 30-Days Leetcode
+### First Set of 30 Leetcode
 
 | Date Attempted    | Link to Leetcode Problem | Status | Difficulty |
 | :----------: | :----------: | :-----:|  :-----:|
@@ -34,7 +34,7 @@ H = Hard
 | Day 18 - 8/5/21 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|✅ |M |
 | Day 19 - 8/6/21 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|❌  | E|
 | Day 20 | [Sort Linked List](https://leetcode.com/problems/sort-list/)|❌  |M |
-| Day 21 | [706 Design HashMap](https://leetcode.com/problems/design-hashmap/)| | E|
+| Day 21 | [706 Design HashMap](https://leetcode.com/problems/design-hashmap/)| ? | E|
 | Day 22 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|❌  |E|
 | Day 23 | [1446 Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)| ✅ |E |
 | Day 24 | [593 Valid Square](https://leetcode.com/problems/valid-square/)| |M |
@@ -45,3 +45,9 @@ H = Hard
 | Day 29 | [509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| ✅| E|
 | Day 30 | [121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| | E|
 
+### Second Set of 30 Leetcode
+
+| Date Attempted    | Link to Leetcode Problem | Status | Difficulty |
+| :----------: | :----------: | :-----:|  :-----:|
+| Day 31|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  | M|
+| Day 32| [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| |E |
