@@ -50,4 +50,5 @@ H = Hard
 | Date Attempted    | Link to Leetcode Problem | Status | Difficulty |
 | :----------: | :----------: | :-----:|  :-----:|
 | Day 31|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  | M|
-| Day 32| [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| |E |
+| Day 32| [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|X |E |
+| Day 32| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| |E |
