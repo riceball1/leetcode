@@ -12,3 +12,10 @@
 |[268 Missing Number](https://leetcode.com/problems/missing-number/)|[video](https://www.youtube.com/watch?v=4LrVhAxJUsA)|
 |[53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[video](https://www.youtube.com/watch?v=5WZl3MMT0Eg) |
 |[189 Rotate Array](https://leetcode.com/problems/rotate-array/) | [video](https://www.youtube.com/watch?v=BHr381Guz3Y) |
+
+
+## Techniques/Patterns for Algorithims
+
+| Technique | Video Link|
+|---| ----|
+|Ep 4 Sliding Windows  - Kenny Talks Code)| [Video](https://www.youtube.com/watch?v=7Q1uylXOatU)|
