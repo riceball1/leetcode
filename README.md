@@ -54,3 +54,4 @@ H = Hard
 | Day 33| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| |E |
 | Day 34 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | E|
 | Day 35| [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | M|
+| Day 36 | [167 Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| | E|
