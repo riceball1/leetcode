@@ -51,5 +51,6 @@ H = Hard
 | :----------: | :----------: | :-----:|  :-----:|
 | Day 31|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  | M|
 | Day 32| [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|X |E |
-| Day 32| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| |E |
-| Day 33 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | E|
+| Day 33| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| |E |
+| Day 34 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | E|
+| Day 35| [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | M|
