@@ -16,6 +16,7 @@
 
 ## Techniques/Patterns for Algorithims
 
-| Technique | Video Link|
+| Technique | Link|
 |---| ----|
-|Ep 4 Sliding Windows  - Kenny Talks Code)| [Video](https://www.youtube.com/watch?v=7Q1uylXOatU)|
+|Ep 4 Sliding Windows  - Kenny Talks Code| [Video](https://www.youtube.com/watch?v=7Q1uylXOatU)|
+|Leetcode Sliding Window Problems| [link](https://leetcode.com/tag/sliding-window/)|
