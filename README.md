@@ -43,7 +43,7 @@ H = Hard
 | Day 27 | [977 Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  ✅|E |
 | Day 28 | [189 Rotate Array](https://leetcode.com/problems/rotate-array/)| X|M |
 | Day 29 | [509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| ✅| E|
-| Day 30 | [121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| | E|
+| Day 30 | [121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|? | E|
 
 ### Second Set of 30 Leetcode
 
