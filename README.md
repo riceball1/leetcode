@@ -57,3 +57,4 @@ H = Hard
 | Day 36 | [167 Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| | E|
 | Day 37 | [367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | | E|
 |Day 38|[1800 Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|E|
+|Day 39|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | E|
