@@ -59,3 +59,4 @@ H = Hard
 |Day 38|[1800 Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)| |E|
 |Day 39|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| | E|
 |Day 40| [46. Permutations](https://leetcode.com/problems/permutations/)| ? | M|
+|Day 41| [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)| ✅| E|
