@@ -27,7 +27,7 @@ var search = function(nums, target) {
     let right = nums.length - 1;
 
     // keep iterating while left and right do not overlap
-    while(left < right) {
+    while(left <= right) {
         // check the middle to determine if that is where the target value is
         let middle = Math.floor((left + right) / 2) // we use Math.floor to round the number down to a whole number
         if(nums[middle] === target) {
@@ -36,7 +36,7 @@ var search = function(nums, target) {
         }
 
         // if not in the middle, let's adjust the left or right values
-        if(target < middle) {
+        if(target < nums[middle]) {
             right = middle - 1;
         } else {
             left = middle + 1;
