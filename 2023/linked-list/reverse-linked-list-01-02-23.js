@@ -24,11 +24,11 @@ var reverseList = function(head) {
     let reverseList = new ListNode(0)
 
     while(curr) {
-        // swap start of restOfList
+        // use a dummy node to append the nodes to, making
+        // sure to use swap method to attach new node and keeping the rest of the prev list
         let tempNext = reverseList.next;
         reverseList.next = curr; // assign curr node to the next list
         // we don't want to iterate the list because we're going to keep attaching each node we see to this list
-
         curr = curr.next // iterate the curr node
         reverseList.next.next = tempNext; // add temp next to the list
     }
