@@ -56,3 +56,47 @@ search  window  list
 | Largest Rectangle in Histogram  | hard|
 
 ## **Level 3**
+|Binary Search|  Difficulty|
+|---| ---|
+| Binary Search  | easy|
+| Search 2D Matrix | medium|
+| Koko Eating Bananas | medium|
+| Find Minimum in Rotated Sorted Array | medium|
+| Search in Rotated Sorted Array| medium|
+| Time Based Key Value Store | medium|
+| Median of Two Sorted Arrays| hard|
+
+|Sliding Window|  Difficulty|
+|---| ---|
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | easy|
+| [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | medium|
+| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | medium|
+| [Permutation String](https://leetcode.com/problems/permutation-in-string/) | medium|
+| [Minimum Window String](https://leetcode.com/problems/minimum-window-substring/) | hard|
+| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | hard|
+
+|Linked List|  Difficulty|
+|---| ---|
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | easy|
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | easy|
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | easy|
+|Reorder List| medium|
+|Remove Nth Node from end of list| medium|
+|Copy List with Random Pointer| medium|
+|Add Two Numbers| medium|
+|Fiund the duplicate number| medium|
+|LRU Cache| medium|
+|Merge K Sorted Lists| hard|
+|Reverse Nodes in K Group| hard|
+
+## **Level 4**
+|Trees|  Difficulty|
+|---| ---|
+| Invert Binary Tree  | easy|
+**TBA**
+
+## **Level 5**
+|Backtracking|  Difficulty|
+|---| ---|
+| Subsets | medium|
+**TBA**
