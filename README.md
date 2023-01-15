@@ -1,102 +1,26 @@
-# **Leetcode 2023**
+# Leetcode
+
+Learning data structures and algorithms is one way to improve the foundational knowledge that makes up computer engineering.
 
 
-I plan to leetcode following [neetcode's roadmap](https://neetcode.io/roadmap) in order to understand basic array problems up to backtracking.
+## Yearly Progress
 
-```
-        array/hashing
-         /          \
-        /            \
-   two pointers      stack
-   /      |      \
-  /       |       \
-binary sliding linked
-search  window  list
-   \            /
-    \          /
-     \        /
-       trees
-         |
-    backtracking
+The following totals includes the LC I've practiced so far. I do not include repeated LCs.
 
-```
-
-## **Algorithms By Categories**
-## **Level 1**
-|Arrays & Hashing |  Difficulty|
+|Year |  Total LC Completed|
 |---| ---|
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | easy|
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  | easy|
-| [Two Sum](https://leetcode.com/problems/two-sum/)  | easy|
-| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | medium|
-| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  | medium|
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  | medium|
-| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | medium|
-| [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)  | medium|
-| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  | medium|
-
-## **Level 2**
-|Two Pointers |  Difficulty|
-|---| ---|
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | easy|
-| [Two Sum II Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  | medium|
-| [3Sum](https://leetcode.com/problems/3sum/)  | medium|
-| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | medium|
-| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  | hard|
+| 2022  | 40 😗|
+|2023 | current count: 21 🫠|
 
 
-|Stacks|  Difficulty|
-|---| ---|
-| Valid Parentheses  | easy|
-| Min Stack  | medium|
-| Evaluate Reverse Polish Notation  | medium|
-| Generate Parentheses  | medium|
-| Daily Temperatures  | medium|
-| Car Fleet  | medium|
-| Largest Rectangle in Histogram  | hard|
+## Goal
+My goal is to improve my ability to think like a software developer, so that way I can break down complex problems into easier to digest parts, and thus come up with solutions, and be able to explain the brute force to more optimal solutions.
 
-## **Level 3**
-|Binary Search|  Difficulty|
-|---| ---|
-| Binary Search  | easy|
-| Search 2D Matrix | medium|
-| Koko Eating Bananas | medium|
-| Find Minimum in Rotated Sorted Array | medium|
-| Search in Rotated Sorted Array| medium|
-| Time Based Key Value Store | medium|
-| Median of Two Sorted Arrays| hard|
+I started grinding since 2020 but each year I've come up with better ways to improve my learning. I do a lot of studying of solutions, watching video breakdowns, going back to the basic ideas of approaches, and so on. I really enjoy learning, and I find these skills transferable to my other learnings, such as when I study languages. 
 
-|Sliding Window|  Difficulty|
-|---| ---|
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | easy|
-| [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | medium|
-| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | medium|
-| [Permutation String](https://leetcode.com/problems/permutation-in-string/) | medium|
-| [Minimum Window String](https://leetcode.com/problems/minimum-window-substring/) | hard|
-| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | hard|
+Hopefully some of the content here will help others who happen upon it. If you have any questions, please feel free to reach out to me via [linkedin](https://www.linkedin.com/in/danafng/). I enjoy providing accessible ways for people to learn, and try to make difficult concepts that were once were daunting to me become more simpler to comprehend.
 
-|Linked List|  Difficulty|
-|---| ---|
-| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | easy|
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | easy|
-| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | easy|
-|Reorder List| medium|
-|Remove Nth Node from end of list| medium|
-|Copy List with Random Pointer| medium|
-|Add Two Numbers| medium|
-|Fiund the duplicate number| medium|
-|LRU Cache| medium|
-|Merge K Sorted Lists| hard|
-|Reverse Nodes in K Group| hard|
 
-## **Level 4**
-|Trees|  Difficulty|
-|---| ---|
-| Invert Binary Tree  | easy|
-**TBA**
-
-## **Level 5**
-|Backtracking|  Difficulty|
-|---| ---|
-| Subsets | medium|
-**TBA**
+<hr/>
+Copyright &#169;
+2022 - 2023
