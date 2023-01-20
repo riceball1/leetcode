@@ -52,3 +52,15 @@ function triplets(nums) {
 
 console.log(triplets([ -1, 0, 1, 2, -1, -4 ]), [ [ -1, -1, 2 ], [ -1, 0, 1 ] ])
 console.log(triplets([ 0, 0, 0 ]), [ [ 0, 0, 0 ] ])
+
+
+/*
+3Sum is a problem where you are given an array of integers and are asked to find all unique triplets that add up to a given target. One way to solve the problem is to use a variation of the two pointer method.
+
+Sort the array in ascending order.
+Iterate through the array and for each element, use the two pointer method to find all the pairs in the subarray that starts from the next element and ends at the end of the array such that the sum of the current element and the pair equals the target.
+To avoid duplicate triplets, skip any element that is the same as the previous element.
+This algorithm has a time complexity of O(n^2) and a space complexity of O(1).
+
+
+*/
