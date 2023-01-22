@@ -14,7 +14,7 @@ function rotate(nums, k) {
 
     reverse(nums, 0, nums.length - 1); // reverse entire array
     reverse(nums, 0, key - 1) // rotate array by key
-    reverse(nums, key, nums.length - 1) // reverse back the array
+    reverse(nums, key, nums.length - 1) // reverse rest of the array after the key
 
     // this function helps to swap the values
     function reverse(nums, start, end) {
