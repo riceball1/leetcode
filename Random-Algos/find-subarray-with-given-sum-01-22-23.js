@@ -9,6 +9,8 @@ assumption -- all values are positive values
 */
 
 // sliding window
+// Time: O(n) iterate across at most entire nums array
+// Space: O(1) does not include the output array, so no space was used
 function findSubarraySum(nums, sum) {
     let start = 0;
     let currentSum = nums[0]
