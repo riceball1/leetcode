@@ -16,7 +16,7 @@ Start from the first element of ar2 which is 1, then move to 5, then 7.  From 7 
 
 */
 
-
+// Time: O(m + n) Space: O(1) - no extra space needed
 function mathPathSum(nums1, nums2) {
     // initialize variables
     let len1 = nums1.length;
