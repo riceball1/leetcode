@@ -6,4 +6,5 @@ https://leetcode.com/tag/design/
 
 | # | Title |
 |--|---|
-|1603| Design Parking System|
+|1603| [Design Parking System](https://leetcode.com/problems/design-parking-system/)|
+|1656| [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|
