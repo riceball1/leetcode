@@ -8,3 +8,10 @@ https://leetcode.com/tag/design/
 |--|---|
 |1603| [Design Parking System](https://leetcode.com/problems/design-parking-system/)|
 |1656| [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|
+
+
+# Medium
+
+|# | Title|
+|--|--|
+|155| [Min Stack](https://leetcode.com/problems/min-stack/)|
