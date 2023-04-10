@@ -13,11 +13,15 @@ A subarray is a contiguous subsequence of the array.
 */
 
 
+
+
 /**
  * @param {number[]} nums
  * @return {number}
  */
-var numberOfArithmeticSlices = function (nums) {
+
+// Time O(n^2) 
+const numberOfArithmeticSlices = function (nums) {
 
     // edge case
     if (nums.length <= 2) return 0;
@@ -53,3 +57,33 @@ var numberOfArithmeticSlices = function (nums) {
 
 };
 
+
+
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+*/
+
+// Time O(n) and Space O(n)
+// This function takes an array of integers as input and returns the number of arithmetic slices.
+const numberOfArithmeticSlicesDP = function(nums) {
+    // Initialize an array `dp` with the same length as `nums`, 
+    // and fill it with zeros. This array will keep track of the calculations.
+    let dp = new Array(nums.length).fill(0);
+    // Initialize a variable `count` to keep track of the total number of arithmetic slices.
+    let count = 0;
+    
+    // Loop through the array starting from index 2.
+    for (let i = 2; i < nums.length; i++) {
+        // Check if the current sequence of 3 numbers form an arithmetic sequence.
+        if (nums[i] - nums[i-1] === nums[i-1] - nums[i-2]) {
+            // If the current sequence is an arithmetic sequence, update the `dp` array at index `i`.
+            dp[i] = dp[i-1] + 1; 
+            // Add the current value of `dp[i]` to the `count` variable to keep track of the total number of arithmetic sequences.
+            count += dp[i];
+        }
+    }
+    // Return the total number of arithmetic sequences.
+    return count;
+};
