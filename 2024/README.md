@@ -5,7 +5,7 @@ E = easy, M = medium, H = hard
 
 [Grind 75](https://www.techinterviewhandbook.org/grind75?difficulty=Easy&difficulty=Medium) 
 
-- [x] Two Sum (E)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) (E)
 - [ ] Valid Parentheses (E)
 - [ ] Merge Two Sorted Lists (E)
 - [ ] Best Time to Buy and Sell Stock (E)
