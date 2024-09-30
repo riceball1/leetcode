@@ -22,12 +22,15 @@ E = easy, M = medium, H = hard
 [Leetcode-75 Study Plan](https://leetcode.com/studyplan/leetcode-75/)
 
 **Array/String**
-- [ ] Merge Strings Alternately (E)
-- [ ] Greatest Common Divisor of Strings (E)
-- [ ] Kids with the Greatest Number of Candies (E)
-- [ ] Can Place Flowers (E)
-- [ ] Reverse Vowels of a String (E)
-- [ ] Reverse Words in a String (M)
-- [ ] Product of Array Except Self (M)
-- [ ] Increasing Triplet Subsequence (M)
-- [ ] String Compression (M)
+
+| Problem | Difficulty | Date Completed |
+|---------|------------|----------------|
+| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 09_29_2024 |
+| [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | |
+| Kids with the Greatest Number of Candies | Easy | |
+| Can Place Flowers | Easy | |
+| Reverse Vowels of a String | Easy | |
+| Reverse Words in a String | Medium | |
+| Product of Array Except Self | Medium | |
+| Increasing Triplet Subsequence | Medium | |
+| String Compression | Medium | |
