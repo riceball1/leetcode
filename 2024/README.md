@@ -23,10 +23,12 @@ E = easy, M = medium, H = hard
 
 **Array/String**
 
+** Needs revising
+
 | Problem | Difficulty | Date Completed |
 |---------|------------|----------------|
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 09_29_2024 |
-| [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | |
+| [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 09_30_2024 ** |
 | Kids with the Greatest Number of Candies | Easy | |
 | Can Place Flowers | Easy | |
 | Reverse Vowels of a String | Easy | |
