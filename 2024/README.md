@@ -29,7 +29,7 @@ E = easy, M = medium, H = hard
 |---------|------------|----------------|
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 09_29_2024 |
 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 09_30_2024 ** |
-| https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75 | Easy | 10_01_2024 |
+| [Kids with the Greast Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_01_2024 |
 | Can Place Flowers | Easy | |
 | Reverse Vowels of a String | Easy | |
 | Reverse Words in a String | Medium | |
