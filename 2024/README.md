@@ -32,7 +32,7 @@ E = easy, M = medium, H = hard
 | [Kids with the Greast Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_01_2024 |
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_02_2024 |
 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_03_2024|
-| Reverse Words in a String | Medium | |
+| [Reverse Words in a String](ttps://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_04_2024|
 | Product of Array Except Self | Medium | |
 | Increasing Triplet Subsequence | Medium | |
 | String Compression | Medium | |
