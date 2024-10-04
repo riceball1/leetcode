@@ -31,7 +31,7 @@ E = easy, M = medium, H = hard
 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 09_30_2024 ** |
 | [Kids with the Greast Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_01_2024 |
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_02_2024 |
-| Reverse Vowels of a String | Easy | |
+| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_03_2024|
 | Reverse Words in a String | Medium | |
 | Product of Array Except Self | Medium | |
 | Increasing Triplet Subsequence | Medium | |
