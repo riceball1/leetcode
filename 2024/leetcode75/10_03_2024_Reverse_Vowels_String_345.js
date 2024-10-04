@@ -37,3 +37,51 @@ var reverseVowels = function (s) {
 
     return sToArray.join("")
 };
+
+
+// Improved version with two-pointer approach
+
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var reverseVowels = function(s) {
+    // edge cases
+    if (!s || s.length === 1) return s;
+
+    // keep a set of vowels
+    const vowels = new Set(['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'])
+
+    let start = 0;
+    let end = s.length - 1;
+
+    // two pointer approach to iterate over the s in array form
+    const sToArray = s.split("")
+
+    while(start < end) {
+
+        // check for vowel in the start and end positions
+        if(vowels.has(sToArray[start]) && vowels.has(sToArray[end])) {
+            // swap the vowels
+            let temp = sToArray[end]
+            sToArray[end] = sToArray[start]
+            sToArray[start] = temp;
+
+            start++;
+            end--;
+        }
+
+        // move pointer of end if no vowel found
+        if(!vowels.has(sToArray[end])) {
+            end--;
+        }
+
+        // move pointer of start if no vowel found
+        if(!vowels.has(sToArray[start])) {
+            start++;
+        }
+    }
+
+    return sToArray.join("") // return to string format
+    
+};
