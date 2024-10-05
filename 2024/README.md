@@ -33,6 +33,6 @@ E = easy, M = medium, H = hard
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_02_2024 |
 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_03_2024|
 | [Reverse Words in a String](ttps://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_04_2024|
-| Product of Array Except Self | Medium | |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_05_2024|
 | Increasing Triplet Subsequence | Medium | |
 | String Compression | Medium | |
