@@ -35,7 +35,7 @@ E = easy, M = medium, H = hard
 | [Reverse Words in a String](ttps://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_04_2024|
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_05_2024 **|
 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | Medium |10_06_2024 **|
-| String Compression | Medium | |
+| [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_07_2024 **|
 
 
 **Two Pointers**
