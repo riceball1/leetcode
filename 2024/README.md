@@ -45,6 +45,6 @@ E = easy, M = medium, H = hard
 | Problem | Difficulty | Date Completed |
 |---------|------------|----------------|
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_08_2024 |
-| Is Subsequence | Easy | |
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_09_2024 |
 | Container With Most Water | Medium | |
 | Max Number of K-Sum Pairs | Medium | |
