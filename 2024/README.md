@@ -48,3 +48,37 @@ E = easy, M = medium, H = hard
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_09_2024 |
 | Container With Most Water | Medium | |
 | Max Number of K-Sum Pairs | Medium | |
+
+
+**Sliding Window**
+
+** Needs revising
+
+| Problem | Difficulty | Date Completed |
+|---------|------------|----------------|
+| [Maximum Average Subarray I]() | Easy | |
+| [Maximum Number of Vowels in a substring of given length]() | Easy | |
+|[Max Consective Ones III]() | Medium | |
+|[Longest Subarray of 1's After Deleting One Element]()| Medium | |
+
+
+**Prefix Sum**
+
+** Needs revising
+
+| Problem | Difficulty | Date Completed |
+|---------|------------|----------------|
+| [Find the Highest Altitude]() | Easy | |
+| [Find Pivot Index]() | Easy | |
+
+
+**Hash Map / Set**
+
+** Needs revising
+
+| Problem | Difficulty | Date Completed |
+|---------|------------|----------------|
+| [Find the Difference of Two Arrays]() | Easy | |
+| [Unique Number of Occurrences]() | Easy | |
+| [Determine if Two Strings Are Close]() | Medium | |
+| [Equal Row and Column Pairs]() | Medium | |
