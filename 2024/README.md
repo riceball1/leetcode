@@ -47,7 +47,7 @@ E = easy, M = medium, H = hard
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_08_2024 |
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_09_2024 |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_10_2024 ** |
-| [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_11_2024|
+| [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | 10_12_2024|
 
 
 **Sliding Window**
@@ -56,7 +56,7 @@ E = easy, M = medium, H = hard
 
 | Problem | Difficulty | Date Completed |
 |---------|------------|----------------|
-| [Maximum Average Subarray I]() | Easy | |
+| [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 10_14_2024 |
 | [Maximum Number of Vowels in a substring of given length]() | Easy | |
 |[Max Consective Ones III]() | Medium | |
 |[Longest Subarray of 1's After Deleting One Element]()| Medium | |
